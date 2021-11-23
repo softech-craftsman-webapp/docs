@@ -4,6 +4,7 @@
 # Dashboard page
 On this page is given the most important information
 ![Optional Text](../master/images/1.png)
+![alt text](https://github.com/softech-craftsman-webapp/docs/blob/main/images/1.png)
 
 ## Popular now
 In this section, you could see what is popular now among users, by clicking on the offer you could study its details
