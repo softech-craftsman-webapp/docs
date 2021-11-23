@@ -3,6 +3,7 @@
 
 # Dashboard page
 On this page is given the most important information
+
 ![alt text](https://github.com/softech-craftsman-webapp/docs/blob/main/images/1.png)
 
 ## Popular now
